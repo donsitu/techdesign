@@ -1,0 +1,46 @@
+/*h1{
+    color: rgb(43, 226, 95);
+}*/
+
+body{ 
+    background-color: rgb(213, 185, 245);
+}
+.Titulo{                                              /* Asignando color al titulo por su id */
+    color: rgb(0, 0, 0);
+    
+
+}
+
+
+.Texto{                                              /* Asignando color parrafo*/         
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.card-img-top{
+    border-radius: 50px;
+    padding: 20px;
+}
+.card{
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+.card-body{
+    padding: 25px;
+    margin-top: -15px;
+}
+.btn-primary{
+    border-radius: 50px;
+    width: 120px;
+}
+.btn-primary:hover{
+    background-color: rgb(255, 0, 170);
+    border: none;
+}
+h3,h5{
+    color: rgb(0, 0, 0);
+}
+
+
+
